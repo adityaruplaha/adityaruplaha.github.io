@@ -1,0 +1,35 @@
+# Change 'comments' to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: ''
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-ID: ''
+
+menu:
+- {name: 'Home',    url: ''}
+- {name: 'About',   url: 'about.html'}
+- {name: 'Archive', url: 'archive.html'}
+- {name: 'Contact', url: 'contact.html'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+social:
+- {icon: 'github',     link: 'https://www.github.com/adityaruplaha', is_brand: true}
+- {icon: 'twitter',    link: 'https://twitter.com/AdityarupLaha', is_brand: true}
+#- {icon: 'instagram',  link: 'https://instagram.com/adityaruplaha', is_brand: true}
+#- {icon: 'linkedin',   link: 'https://www.linkedin.com/in/adityaruplaha/', is_brand: true}
+#- {icon: 'discord',    link: '#', is_brand: true}
+- {icon: 'telegram',   link: 'https://t.me/adityaruplaha', is_brand: true}
+- {icon: 'envelope',   link: 'mailto:me@adityaruplaha.me', is_brand: false}
+# - {icon: 'rss-square', link: '/rss-feed.xml', is_brand: false}
+
+# Customize site text
+pagination:
+  next_page: 'Newer'
+  previous_page: 'Older'
+
+sharing_button_prompt: 'Feel free to share!'
+
+related_posts: 'You may also enjoy:'
+
+post_date_prefix: 'Created on'

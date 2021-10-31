@@ -1,0 +1,32 @@
+#theme-selector {
+    padding: 1rem;
+    position: fixed;
+    inset: auto auto 1rem 1rem;
+    font-size: 1.2rem;
+    color: $extra-light-gray-color;
+    background-color: $dark-gray-color;
+
+    opacity: 0.2;
+
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+
+    & * {
+        vertical-align: top;
+    }
+
+    width: 1.2rem;
+    height: 1.2rem;
+    border-radius: 50%;
+
+    &::before {
+        transition: transform 0.25s linear;
+    }
+}
+
+#theme-selector:hover {
+    font-weight: bold;
+    opacity: 0.9;
+    transition: all 0.25s ease;
+}

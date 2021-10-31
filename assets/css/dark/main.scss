@@ -1,0 +1,41 @@
+---
+---
+
+$sans-serif-font-family: "Quattrocento Sans",
+sans-serif;
+$serif-font-family: "PT Serif",
+Georgia,
+"Times New Roman",
+serif;
+$code-font-family: "Source Code Pro",
+monospace;
+
+$body-bg-color: black;
+$body-color: #919191;
+$link-color: white;
+
+$code-background-color: #2b2b2b;
+$pagination-button-color: #777777;
+
+$dark-gray-color: #c0c0c0;
+$light-gray-color: #7c7c7c;
+$extra-light-gray-color: #474747;
+
+$container-responsive-width: 768px;
+$elements-responsive-width: 30em;
+
+$icon-transition-time: .25s;
+$envelope-color: #f39c12;
+$twitter-color: #00aced;
+$instagram-color: #4977b8;
+$github-color: #9c9c9c;
+$discord-color: #4c41dd;
+$telegram-color: #00b7ff;
+$linkedin-color: #0180b6;
+$facebook-color: #3d5b99;
+$pinterest-color: #bd081c;
+$medium-color: #00AB6C;
+$codepen-color: #d1d1d1;
+$rss-color: #ff6600;
+
+@import "include-all";
