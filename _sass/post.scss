@@ -29,3 +29,13 @@
 .related-posts a {
   text-decoration: none;
 }
+
+.testing {
+  border-left: 3px solid rgba($color: $dark-gray-color, $alpha: 0.7);
+  border-radius: 0.4rem;
+  color: $dark-gray-color;
+  background-color: $extra-light-gray-color;
+  padding: 1.7rem;
+  padding-top: 1.1rem;
+  margin-bottom: 1.7rem;
+}

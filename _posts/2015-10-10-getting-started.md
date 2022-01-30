@@ -7,6 +7,8 @@ tags: [documentation,sample]
 image: forest.jpg
 home_listed: false
 archive_listed: true
+testing: true
+testing_og_source: https://lenpaul.github.io/Lagrange/getting-started
 ---
 
 # Lagrange

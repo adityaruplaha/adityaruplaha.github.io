@@ -14,6 +14,19 @@ layout: default
 
 {% else %}
 
+{% if page.testing %}
+  <div class="testing">
+    <p>
+      This post is meant for testing themeing changes.
+      The contents of this post are not authored by the website owner.
+      The website owner bears no liability for anything on this page.
+    </p>
+    {% if page.testing_og_source %}
+      <a href="{{ page.testing_og_source }}">Original Source</a>
+    {% endif %}
+  </div>
+{% endif %}
+
 {% if page.image %}
   <img src="/assets/img/{{ page.image }}">
 {% endif %}

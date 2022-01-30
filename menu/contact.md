@@ -4,4 +4,8 @@ title: Contact
 permalink: /contact
 ---
 
-If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=%40paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new)
+The best way to get in touch is to [send me an email](mailto:me@adityaruplaha.me).
+
+Otherwise, you can also [send me a message](https://t.me/adityaruplaha) over on Telegram.
+
+I rarely, if ever, use Instagram or Twitter, so contacting me on those platforms is of no use.
