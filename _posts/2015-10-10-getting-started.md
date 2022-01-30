@@ -2,7 +2,7 @@
 layout: post
 title: "Getting Started"
 author: "Paul Le"
-categories: journal
+categories: testing
 tags: [documentation,sample]
 image: forest.jpg
 home_listed: false

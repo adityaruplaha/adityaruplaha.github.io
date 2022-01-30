@@ -2,7 +2,7 @@
 layout: post
 title: "Learning Resources"
 author: "Paul Le"
-categories: journal
+categories: testing
 tags: [documentation,sample]
 image: spools.jpg
 home_listed: true

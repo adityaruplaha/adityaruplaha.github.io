@@ -75,8 +75,8 @@ Here's the gist of my CV:
     - Starting year: 2021
     - (Expected) year of graduation: 2024
 - Studied at [B. D. M. International](https://bdmi.org) for grades 1-12.
-    - AISSE 2019: 96.8%
-    - AISSCE 2021: 97.4%
+    - AISSE 2019: Scored 96.8%
+    - AISSCE 2021: Scored 97.4%
 
 
 ---
