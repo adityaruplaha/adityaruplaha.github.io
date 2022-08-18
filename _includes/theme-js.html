@@ -1,6 +1,7 @@
 <script src="/assets/js/themes.js">
 </script>
 <script id="theme-preload">
-    setTheme(getCookie("theme"));
+    // Default is dark
+    setTheme(getCookie("theme") || "dark");
     document.getElementById("theme-preload").remove();
 </script>
