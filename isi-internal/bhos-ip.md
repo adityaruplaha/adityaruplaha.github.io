@@ -1,12 +1,7 @@
 ---
-layout: post
+layout: page
 title: "BHOS IP Allocation"
-author: "Adityarup Laha"
-categories: userver
-tags: [userver]
-home_listed: false
-archive_listed: true
-hide_related: true
+permalink: /isi-internal/bhos-ip
 ---
 
 <script>
@@ -28,7 +23,7 @@ hide_related: true
 
     function update() {
         if (document.getElementById("room").value.length != 3 || document.getElementById("room").value == 0) {
-            document.getElementById("ip").innerHTML = "Invalid";
+            document.getElementById("ip").innerHTML = "<i>Invalid Room No.</i>";
             return;
         }
 
@@ -38,7 +33,7 @@ hide_related: true
 
         var r = calc(side, floor, room)
 
-        document.getElementById("ip").innerHTML = (r ? "192.168.22." + r : "Invalid");
+        document.getElementById("ip").innerHTML = (r ? "192.168.22." + r : "<i>Invalid Room No.</i>");
     }
 </script>
 
@@ -56,7 +51,8 @@ Please enter your room details:
 -
 <input type="number" length="3" id="room"  oninput="update()"/>
 
-|IP Address:  | <span id="ip">Invalid</span>   |
-|Subnet:      | 255.255.255.0                  |
-|Gateway:     | 192.168.22.1                   |
-|DNS Servers: | 192.168.143.25, 192.168.143.26 |
+| Connection Type:  | Static IP                                     |
+| IP Address:       | <span id="ip"><i>Invalid Room No.</i></span>  |
+| Subnet:           | 255.255.255.0                                 |
+| Gateway:          | 192.168.22.1                                  |
+| DNS Servers:      | 192.168.143.25, 192.168.143.26                |
