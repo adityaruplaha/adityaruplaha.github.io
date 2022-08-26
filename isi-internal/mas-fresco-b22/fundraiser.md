@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Mas Fresco B22 Fundraiser"
-permalink: /isi-internal/mas-fresco-b22
+permalink: /isi-internal/mas-fresco-b22/fundraiser
 ---
 
 <script>
@@ -31,6 +31,7 @@ permalink: /isi-internal/mas-fresco-b22
 </script>
 
 Please click on or scan the QR code to pay INR 2000 for Mas Fresco of B22. This is addressed only to B21.
+
 Google Pay has some issues when tapping directly on the QR, taking a screenshot and sharing it into the app should be okay though.
 
 <label for="roll">Please enter your roll number:</label>
@@ -59,3 +60,8 @@ input:valid.nonempty#roll {
 Alternatively, you can also pay on RazorPay, but **please use this as a backup** as RazorPay charges a processing fee (around INR 50). If the button below doesn't work, use [this link](https://rzp.io/l/gJK9ZP82).
 
 <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_K9pzPvZmZaiJbI" async> </script> </form>
+
+
+# See Also
+
+- [Collection Sheet](https://docs.google.com/spreadsheets/d/1FYWJ6aX_QXFoBAg2Tc46FBMbTwLHiz_mxHX55LN2PU4/edit?usp=sharing)
