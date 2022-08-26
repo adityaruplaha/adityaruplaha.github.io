@@ -1,0 +1,28 @@
+---
+layout: page
+title: Featured
+permalink: /featured
+last_updated: 2022-08-27
+---
+
+### A few projects I've worked with...
+
+There's a few projects I've been associated with in the past, but because of time constraints, haven't been able to work on recently.
+However, they're still very much worth checking out.
+
+- [Citra](https://citra-emu.org) and [yuzu](https://yuzu-emu.org).
+- [HeroicGamesLauncher](https://heroicgameslauncher.com/)
+
+### SciAstra
+
+I'd like to express by gratitude towards [SciAstra](https://sciastra.com). I was a student of their maiden batch (if you could even call it that), before they even had a formal name. As of August 2022, they're starting with their second yearlong (proper) batch of students, with incredible results from the first one. I was a mentor in many of their courses during that year and still try to show up in sessions from time to time to interact with the current batch. I really believe they're doing a great job of promoting science research in India, this is not a paid endorsement. Please check them out, and spread the message to anyone whbo you think may be interested.
+
+I was once interviewed by them, you can check that out [here](https://www.youtube.com/watch?v=58qRLRhtJz8).
+
+### Friends & Family
+
+I would not have made it this far in life without the support of friends and family, this is just my way of saying thank you.
+
+- [Amritarupa Laha](https://instagram.com/amritarupalaha) <-- my older sister's Instagram
+- [Bhaswar Studios](https://www.youtube.com/channel/UCc26f1vFeydJHLBaux3cQPw) <-- Naman is a batchmate at ISI Kolkata, and an amazing singer. You can also find a lot of videos about life in ISI Kolkata here.
+

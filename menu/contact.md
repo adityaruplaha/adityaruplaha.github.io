@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact
+last_updated: 2022-08-27
 ---
 
 The best way to get in touch is to [send me an email](mailto:me@adityaruplaha.me).
