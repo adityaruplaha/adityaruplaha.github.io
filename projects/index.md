@@ -21,7 +21,18 @@ Just started out on my college life, so the list is still short. Hope to grow it
 These are projects I've done as part of my coursework at ISI.
 All content is to be considered to be licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>, unless otherwise specified.
 
-
+- Semester 1: Statistical Methods Project
+    > Exploratory Data Analysis
+    >
+    > Report: Unavailable
+- Semester 2: Statistical Methods Project
+    > Exploratory Data Analysis
+    >
+    > Report: Unavailable
+- Semester 2: Vectors & Matrices Project
+    > Eigenface (Facial recognition with clustering using principal component analysis)
+    >
+    > Report: Unavailable
 
 ---
 
