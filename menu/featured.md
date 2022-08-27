@@ -13,6 +13,7 @@ However, they're still very much worth checking out.
 - [Citra](https://citra-emu.org) and [yuzu](https://yuzu-emu.org).
 - [HeroicGamesLauncher](https://heroicgameslauncher.com/)
 
+---
 ## SciAstra
 
 I'd like to express by gratitude towards [SciAstra](https://sciastra.com). I was a student of their maiden batch, which was basically just a lot of PDFs, exams (in the form of Google Forms) and interaction sessions, before they even had a formal name. As of August 2022, they're starting with their second yearlong _proper_ batch of students, with incredible results from the first one.
@@ -21,6 +22,7 @@ I was a mentor in many of their courses during that year and still try to show u
 
 I was once interviewed by them, you can check that out [here](https://www.youtube.com/watch?v=58qRLRhtJz8).
 
+---
 ## Friends & Family
 
 I would not have made it this far in life without the support of friends and family, this is just my way of saying thank you.

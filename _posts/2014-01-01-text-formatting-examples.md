@@ -4,7 +4,7 @@ title: "Text Formatting Examples"
 author: "Paul Le"
 categories: testing
 tags: [documentation,sample]
-image: cards.jpg
+image: generic/cards.jpg
 home_listed: true
 archive_listed: true
 testing: true

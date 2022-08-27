@@ -4,6 +4,8 @@ title: "Mas Fresco 2022-23 Fundraiser"
 permalink: /isi-internal/mas-fresco-b22/fundraiser
 published_on: 2022-08-25
 last_updated: 2022-08-27
+back_to: "Mas Fresco 2022-23"
+back_to_url: /isi-internal/mas-fresco-b22
 ---
 
 <script>
@@ -63,6 +65,7 @@ Alternatively, you can also pay on RazorPay, but **please use this as a backup**
 
 <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_K9pzPvZmZaiJbI" async> </script> </form>
 
+You can also pay in cash.
 
 ## See Also
 

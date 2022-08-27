@@ -4,6 +4,8 @@ title: "Mas Fresco 2022-23"
 permalink: /isi-internal/mas-fresco-b22
 published_on: 2022-08-27
 last_updated: 2022-08-27
+back_to: "ISI Internal Pages"
+back_to_url: /isi-internal
 ---
 
 Mas Fresco is the annual freshers' event for B. Stat. 1st years in ISI Kolkata. We, the batch of 2021 (B21) will be giving our juniors their day of glory on 06 September 2022. This is an internal page to coordinate just that.

@@ -2,6 +2,8 @@
 layout: page
 title: "BHOS IP Allocation"
 permalink: /isi-internal/bhos-ip
+back_to: "ISI Internal Pages"
+back_to_url: /isi-internal
 ---
 
 <script>

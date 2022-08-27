@@ -4,7 +4,7 @@ title: "Welcome to Lagrange!"
 author: "Paul Le"
 categories: testing
 tags: [documentation,sample]
-image: mountains.jpg
+image: generic/mountains.jpg
 home_listed: false
 archive_listed: true
 testing: true

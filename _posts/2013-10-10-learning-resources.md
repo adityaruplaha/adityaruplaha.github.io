@@ -4,7 +4,7 @@ title: "Learning Resources"
 author: "Paul Le"
 categories: testing
 tags: [documentation,sample]
-image: spools.jpg
+image: generic/spools.jpg
 home_listed: true
 archive_listed: true
 testing: true

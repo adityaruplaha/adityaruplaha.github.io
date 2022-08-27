@@ -22,3 +22,9 @@ layout: default
   <em>Last updated on {{ page.last_updated | date : "%d %B %Y"}}.</em>
 </div>
 {% endif %}
+{% if page.back_to %}
+<hr/>
+<div>
+  Back to <a href="{{ page.back_to_url }}">{{ page.back_to }}</a>.
+</div>
+{% endif %}

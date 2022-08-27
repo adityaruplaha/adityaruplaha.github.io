@@ -4,7 +4,7 @@ title: "Getting Started"
 author: "Paul Le"
 categories: testing
 tags: [documentation,sample]
-image: forest.jpg
+image: generic/forest.jpg
 home_listed: false
 archive_listed: true
 testing: true

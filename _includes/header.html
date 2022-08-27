@@ -1,9 +1,12 @@
 <header class="header">
-  <h3 class="header-title">
-    <a href="/">{{ site.title }} <small class="header-subtitle">| {{ site.short_description }}</small></a><br/>
-    <small class="header-subtitle">
+  <div class="header-title">
+    <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
+      <h1 style="margin-right: 0.75em;">{{ site.title }}</h1>
+      <div><h2 class="header-subtitle">| {{ site.short_description }}</h2></div>
+    </div>
+    <div class="header-subtitle">
       {{ site.description }}
-    </small>
-    {% include menu.html %}
-  </h3>
+    </div>
+  </div>
+  {% include menu.html %}
 </header>

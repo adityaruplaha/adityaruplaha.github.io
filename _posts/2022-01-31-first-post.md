@@ -4,7 +4,7 @@ title: "First Post!"
 author: "Adityarup Laha"
 categories: blog
 tags: [blog,meta,update]
-image: cutting.jpg
+image: generic/cutting.jpg
 home_listed: true
 archive_listed: true
 hide_related: true
