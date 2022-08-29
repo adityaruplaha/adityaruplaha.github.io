@@ -61,9 +61,7 @@ input:valid.nonempty#roll {
     <i>Please enter a valid roll number first.</i>
 </div>
 
-Alternatively, you can also pay on RazorPay, but **please use this as a backup** as RazorPay charges a processing fee (around INR 50). If the button below doesn't work, use [this link](https://rzp.io/l/gJK9ZP82).
-
-<form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_K9pzPvZmZaiJbI" async> </script> </form>
+_RazorPay has rejected my account, can't accept payments using that anymore. Existing payments will be settled._
 
 You can also pay in cash.
 
