@@ -23,6 +23,23 @@ I was a mentor in many of their courses during that year and still try to show u
 I was once interviewed by them, you can check that out [here](https://www.youtube.com/watch?v=58qRLRhtJz8).
 
 ---
+## Tools I use...
+
+### Trello
+
+Trello is a tool we use on a near-daily basis as part of our internal resource management at ISI. We, as a batch, use it for practically everything from announcements to important resources to class notes. I strongly recommend Trello as a tool to organize both your personal and professional life. [Check it out.](https://trello.com).
+
+### VS Code
+
+All my software work, including building this website, is done on VS Code. Its intuitive, easy-on-the-eyes UI, paired with the myriad of functionalities you can add via the thousands of available extensions more than makes up for the relatively large resource footprint for me. Since I primarily write Python, R, or TypeScript these days anyway, I have never needed a full-fledged IDE.
+
+### Arch Linux
+
+My main machine currently is an Acer Nitro AN515-57 running Arch Linux. I repurposed my old desktop into a server, also running Arch. It offers me a pretty bleeding-edge yet stable system with access to the AUR. What more could I want?
+
+### ...and more.
+
+---
 ## Friends & Family
 
 I would not have made it this far in life without the support of friends and family, this is just my way of saying thank you.
