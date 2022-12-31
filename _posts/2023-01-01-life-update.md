@@ -79,11 +79,8 @@ However, even on that day, the mess food was absolutely disgusting. I pretty muc
 
 A couple days later, on 27th October, we had our own little picnic in the hostel, as we (mostly me and Chontida) cooked polao, chicken kosha and butter chicken for ourselves and our friends.
 
-![The royal spread.](/assets/img/2022/isi/isi-2022-hostel-cooking-img-1.jpg)
+![The royal spread.](/assets/img/2022/isi/isi-2022-hostel-cooking.jpg)
 <small><i>The royal spread.</i></small>
-
-![What pure caffeine does to a mf.](/assets/img/2022/isi/isi-2022-hostel-cooking-img-2.jpg)
-<small><i>I was running on pure caffeine that day. PC: Cheems.</i></small>
 
 ## November 2022
 
